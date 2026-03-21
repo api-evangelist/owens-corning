@@ -1,0 +1,7 @@
+aid: owens-corning
+url: https://raw.githubusercontent.com/api-evangelist/owens-corning/refs/heads/main/apis.yml
+modified: '2026-03-21'
+apis: []
+common:
+  - type: Website
+    url: https://www.owens-corning.com
