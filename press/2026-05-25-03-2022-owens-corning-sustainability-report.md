@@ -1,7 +1,9 @@
 ---
 title: 2022 Owens Corning Sustainability Report
 url: https://www.owenscorning.com/en-us/corporate/sustainability/docs/2023/2022-Owens-Corning-Sustainability-Report.pdf
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Owens Corning" press release artificial intelligence'
 position: 3
 source: serpapi-google

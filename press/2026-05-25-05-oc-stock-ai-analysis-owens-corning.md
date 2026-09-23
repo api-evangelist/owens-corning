@@ -1,7 +1,9 @@
 ---
 title: OC Stock AI Analysis - Owens Corning
 url: https://danelfin.com/stock/OC
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Owens Corning" press release artificial intelligence'
 position: 5
 source: serpapi-google
